@@ -1,4 +1,4 @@
-# mqtt_config
+# Mqtt_config
 
 Proyek ini adalah contoh konfigurasi koneksi ke MQTT broker menggunakan Node.js dan library [`mqtt`](https://www.npmjs.com/package/mqtt).
 
